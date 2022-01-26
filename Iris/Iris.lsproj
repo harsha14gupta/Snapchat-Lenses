@@ -1,0 +1,2863 @@
+{
+    "lens_id": "",
+    "document_id": "-5il2-Lrg7D8oIJ-bpto",
+    "original_document_id": "-5il2-Lrg7D8oIJ-bpto",
+    "version": "28",
+    "lastChanged": "1626808502952",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "58cb45b7-863a-4bea-88ef-bc7c2689f576-removebg-preview (3)"
+                    ],
+                    [
+                        "BW"
+                    ],
+                    [
+                        "Materials",
+                        "Face_0"
+                    ],
+                    [
+                        "Materials",
+                        "Face_0",
+                        "Blush0"
+                    ],
+                    [
+                        "Materials",
+                        "Face_0",
+                        "Eyebrows0"
+                    ],
+                    [
+                        "Materials",
+                        "Face_0",
+                        "Eyelashes0"
+                    ],
+                    [
+                        "Materials",
+                        "Face_0",
+                        "Eyeliner0"
+                    ],
+                    [
+                        "Materials",
+                        "Face_0",
+                        "Eyeshadows0_1"
+                    ],
+                    [
+                        "Materials",
+                        "Face_0",
+                        "Eyeshadows0_2"
+                    ],
+                    [
+                        "Materials",
+                        "Face_0",
+                        "Eyeshadows0_3"
+                    ],
+                    [
+                        "Materials",
+                        "Face_0",
+                        "Lipgloss0"
+                    ],
+                    [
+                        "Materials",
+                        "Face_0",
+                        "Lips0"
+                    ],
+                    [
+                        "Miami"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Screen Texture"
+                    ],
+                    [
+                        "Textures",
+                        "Screen Texture 2"
+                    ],
+                    [
+                        "Textures",
+                        "Screen Texture 3"
+                    ]
+                ],
+                ""
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1564011917434851:4378",
+                    "1564102385137633:9194",
+                    "1564190292157812:93180"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "87c3ffb9c10e2d4907c7470e418e218c",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Iris",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Brick.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 6.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Brick.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Pair Idle Persons 2.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1560291240502456:10010",
+                    "1560292480737050:69361",
+                    "1560293208093114:100114",
+                    "1560293208093315:100117",
+                    "1560372860527379:107329",
+                    "1560373054870716:136502",
+                    "1563514752488764:222753",
+                    "1563520250863011:421382",
+                    "1626797948399305:83063",
+                    "1626798019190316:93149",
+                    "1626800976274807:580900",
+                    "1626801156637354:625838",
+                    "1626801177435439:633476",
+                    "1626801304178607:655154",
+                    "1626801353682492:665267",
+                    "1626801398255335:674686"
+                ],
+                [
+                    "1560291240502456:10010",
+                    "1560292480737050:69361",
+                    "1560293208093315:100117",
+                    "1560373054870716:136502",
+                    "1563499208144696:4873",
+                    "1563514752488764:222753",
+                    "1563520250863011:421382",
+                    "1626797948399305:83063",
+                    "1626798019190316:93149",
+                    "1626800976274807:580900",
+                    "1626801156637354:625838",
+                    "1626801177435439:633476",
+                    "1626801304178607:655154",
+                    "1626801353682492:665267"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1611885248731195:546895"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1560294564601149:129648",
+                    "name": "\/Resources\/Resource35.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "103",
+                    "uid": "1560372455182087:17679",
+                    "name": "Files\/File84.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "104",
+                    "uid": "1560372455189635:17689",
+                    "name": "Files\/File86.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "115",
+                    "uid": "1563503279617552:424337",
+                    "name": "Files\/File99.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "116",
+                    "uid": "1563514786230353:227859",
+                    "name": "Files\/File101.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "119",
+                    "uid": "1563518772795809:170706",
+                    "name": "Files\/File105.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "121",
+                    "uid": "1563519545145716:252558",
+                    "name": "Files\/File108.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "123",
+                    "uid": "1563520312701079:429868",
+                    "name": "Files\/File111.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "127",
+                    "uid": "1563555395639695:135338",
+                    "name": "Files\/File115.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "173",
+                    "uid": "1585273197086665:83786",
+                    "name": "Files\/File251.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "181",
+                    "uid": "1585276987552009:434517",
+                    "name": "Files\/File266.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "183",
+                    "uid": "1585277320979745:471868",
+                    "name": "Files\/File270.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "186",
+                    "uid": "1611885248731195:546895",
+                    "name": "Files\/File284",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "187",
+                    "uid": "1611886557248618:753800",
+                    "name": "Files\/File286",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "188",
+                    "uid": "1611886713871626:783997",
+                    "name": "Files\/File288",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "189",
+                    "uid": "1611886900639456:815808",
+                    "name": "Files\/File290",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "190",
+                    "uid": "1611886933362566:824481",
+                    "name": "Files\/File292",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "191",
+                    "uid": "1611887133286883:870114",
+                    "name": "Files\/File294",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "192",
+                    "uid": "1611887255963272:901196",
+                    "name": "Files\/File296",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "193",
+                    "uid": "1611887354950594:919987",
+                    "name": "Files\/File298",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "194",
+                    "uid": "1611887393452646:928451",
+                    "name": "Files\/File300",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "212",
+                    "uid": "1626798902010491:222605",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "218",
+                    "uid": "1626799279392496:284925",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "240",
+                    "uid": "1626801298628526:652340",
+                    "name": "Files\/File403.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "248",
+                    "uid": "1626802696854243:967704",
+                    "name": "Files\/File419.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "250",
+                    "uid": "1626802732624682:975731",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "256",
+                    "uid": "1626802977945014:1039526",
+                    "name": "Files\/File433.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": [
+                        {
+                            "k": "1626801353682837:665268",
+                            "v": {
+                                "eyeColorInfo": {
+                                    "textureUid": "-1:-1",
+                                    "mode": "0",
+                                    "color": {
+                                        "x": "0",
+                                        "y": "0.333333343",
+                                        "z": "0",
+                                        "w": "0.560000002"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1560293208093114:100114",
+                "1": "1560294486839490:125834",
+                "2": "1560373054870716:136502",
+                "3": "1560373594080269:227482",
+                "4": "1563514752488764:222753",
+                "5": "1563518746322740:164811",
+                "6": "1563520250863011:421382",
+                "7": "1563819940080184:110309",
+                "8": "1564011917434851:4378",
+                "9": "1564013638237292:988458",
+                "10": "1564102385137633:9194",
+                "11": "1626798019190019:93148",
+                "12": "1626798019190316:93149",
+                "13": "1626801304178284:655153",
+                "14": "1626801304178607:655154",
+                "15": "1626801353682492:665267",
+                "16": "1626802696759693:967649",
+                "17": "1626802977853794:1039471"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "12",
+                    "v": "Files\/File12.jpg"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.jpg"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84.jpg"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85.jpg"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86.jpg"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.jpg"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.jpg"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99.jpg"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.jpg"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.jpg"
+                },
+                {
+                    "k": "102",
+                    "v": "Files\/File102.jpg"
+                },
+                {
+                    "k": "105",
+                    "v": "Files\/File105.jpg"
+                },
+                {
+                    "k": "106",
+                    "v": "Files\/File106.jpg"
+                },
+                {
+                    "k": "108",
+                    "v": "Files\/File108.jpg"
+                },
+                {
+                    "k": "109",
+                    "v": "Files\/File109.jpg"
+                },
+                {
+                    "k": "111",
+                    "v": "Files\/File111.jpg"
+                },
+                {
+                    "k": "112",
+                    "v": "Files\/File112.jpg"
+                },
+                {
+                    "k": "115",
+                    "v": "Files\/File115.js"
+                },
+                {
+                    "k": "180",
+                    "v": "Files\/File180.lsmat"
+                },
+                {
+                    "k": "182",
+                    "v": "Files\/File182.lsmat"
+                },
+                {
+                    "k": "184",
+                    "v": "Files\/File184.lsmat"
+                },
+                {
+                    "k": "186",
+                    "v": "Files\/File186.lsmat"
+                },
+                {
+                    "k": "188",
+                    "v": "Files\/File188.lsmat"
+                },
+                {
+                    "k": "190",
+                    "v": "Files\/File190.lsmat"
+                },
+                {
+                    "k": "192",
+                    "v": "Files\/File192.lsmat"
+                },
+                {
+                    "k": "194",
+                    "v": "Files\/File194.lsmat"
+                },
+                {
+                    "k": "196",
+                    "v": "Files\/File196.lsmat"
+                },
+                {
+                    "k": "198",
+                    "v": "Files\/File198.lsmat"
+                },
+                {
+                    "k": "200",
+                    "v": "Files\/File200.lsmat"
+                },
+                {
+                    "k": "202",
+                    "v": "Files\/File202.lsmat"
+                },
+                {
+                    "k": "204",
+                    "v": "Files\/File204.lsmat"
+                },
+                {
+                    "k": "206",
+                    "v": "Files\/File206.lsmat"
+                },
+                {
+                    "k": "208",
+                    "v": "Files\/File208.lsmat"
+                },
+                {
+                    "k": "210",
+                    "v": "Files\/File210.lsmat"
+                },
+                {
+                    "k": "212",
+                    "v": "Files\/File212.lsmat"
+                },
+                {
+                    "k": "214",
+                    "v": "Files\/File214.lsmat"
+                },
+                {
+                    "k": "215",
+                    "v": "Files\/File215.lsmat"
+                },
+                {
+                    "k": "216",
+                    "v": "Files\/File216.lsmat"
+                },
+                {
+                    "k": "217",
+                    "v": "Files\/File217.lsmat"
+                },
+                {
+                    "k": "218",
+                    "v": "Files\/File218.lsmat"
+                },
+                {
+                    "k": "219",
+                    "v": "Files\/File219.lsmat"
+                },
+                {
+                    "k": "220",
+                    "v": "Files\/File220.lsmat"
+                },
+                {
+                    "k": "221",
+                    "v": "Files\/File221.lsmat"
+                },
+                {
+                    "k": "222",
+                    "v": "Files\/File222.lsmat"
+                },
+                {
+                    "k": "223",
+                    "v": "Files\/File223.lsmat"
+                },
+                {
+                    "k": "224",
+                    "v": "Files\/File224.lsmat"
+                },
+                {
+                    "k": "225",
+                    "v": "Files\/File225.lsmat"
+                },
+                {
+                    "k": "226",
+                    "v": "Files\/File226.lsmat"
+                },
+                {
+                    "k": "227",
+                    "v": "Files\/File227.lsmat"
+                },
+                {
+                    "k": "228",
+                    "v": "Files\/File228.lsmat"
+                },
+                {
+                    "k": "229",
+                    "v": "Files\/File229.lsmat"
+                },
+                {
+                    "k": "230",
+                    "v": "Files\/File230.lsmat"
+                },
+                {
+                    "k": "231",
+                    "v": "Files\/File231.lsmat"
+                },
+                {
+                    "k": "232",
+                    "v": "Files\/File232.lsmat"
+                },
+                {
+                    "k": "251",
+                    "v": "Files\/File251.js"
+                },
+                {
+                    "k": "266",
+                    "v": "Files\/File266.jpg"
+                },
+                {
+                    "k": "267",
+                    "v": "Files\/File267.jpg"
+                },
+                {
+                    "k": "270",
+                    "v": "Files\/File270.jpg"
+                },
+                {
+                    "k": "271",
+                    "v": "Files\/File271.jpg"
+                },
+                {
+                    "k": "274",
+                    "v": "Files\/File274.jpg"
+                },
+                {
+                    "k": "275",
+                    "v": "Files\/File275.jpg"
+                },
+                {
+                    "k": "276",
+                    "v": "Files\/File276.jpg"
+                },
+                {
+                    "k": "277",
+                    "v": "Files\/File277.jpg"
+                },
+                {
+                    "k": "278",
+                    "v": "Files\/File278.jpg"
+                },
+                {
+                    "k": "279",
+                    "v": "Files\/File279.jpg"
+                },
+                {
+                    "k": "280",
+                    "v": "Files\/File280.jpg"
+                },
+                {
+                    "k": "281",
+                    "v": "Files\/File281.jpg"
+                },
+                {
+                    "k": "284",
+                    "v": "Files\/File284"
+                },
+                {
+                    "k": "285",
+                    "v": "Files\/File285.lsmat"
+                },
+                {
+                    "k": "286",
+                    "v": "Files\/File286"
+                },
+                {
+                    "k": "287",
+                    "v": "Files\/File287.lsmat"
+                },
+                {
+                    "k": "288",
+                    "v": "Files\/File288"
+                },
+                {
+                    "k": "289",
+                    "v": "Files\/File289.lsmat"
+                },
+                {
+                    "k": "290",
+                    "v": "Files\/File290"
+                },
+                {
+                    "k": "291",
+                    "v": "Files\/File291.lsmat"
+                },
+                {
+                    "k": "292",
+                    "v": "Files\/File292"
+                },
+                {
+                    "k": "293",
+                    "v": "Files\/File293.lsmat"
+                },
+                {
+                    "k": "294",
+                    "v": "Files\/File294"
+                },
+                {
+                    "k": "295",
+                    "v": "Files\/File295.lsmat"
+                },
+                {
+                    "k": "296",
+                    "v": "Files\/File296"
+                },
+                {
+                    "k": "297",
+                    "v": "Files\/File297.lsmat"
+                },
+                {
+                    "k": "298",
+                    "v": "Files\/File298"
+                },
+                {
+                    "k": "299",
+                    "v": "Files\/File299.lsmat"
+                },
+                {
+                    "k": "300",
+                    "v": "Files\/File300"
+                },
+                {
+                    "k": "301",
+                    "v": "Files\/File301.lsmat"
+                },
+                {
+                    "k": "388",
+                    "v": "Files\/File388.lsmat"
+                },
+                {
+                    "k": "403",
+                    "v": "Files\/File403.pvr"
+                },
+                {
+                    "k": "404",
+                    "v": "Files\/File404.png"
+                },
+                {
+                    "k": "405",
+                    "v": "Files\/File405.png"
+                },
+                {
+                    "k": "406",
+                    "v": "Files\/File406.pvr"
+                },
+                {
+                    "k": "414",
+                    "v": "Files\/File414.lsmat"
+                },
+                {
+                    "k": "419",
+                    "v": "Files\/File419.png"
+                },
+                {
+                    "k": "420",
+                    "v": "Files\/File420.png"
+                },
+                {
+                    "k": "424",
+                    "v": "Files\/File424.lsmat"
+                },
+                {
+                    "k": "433",
+                    "v": "Files\/File433.png"
+                },
+                {
+                    "k": "434",
+                    "v": "Files\/File434.png"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "11",
+                        "v": "Textures\/mask_eyeliner.jpg"
+                    },
+                    {
+                        "k": "181",
+                        "v": "Textures\/mask_blush.jpg"
+                    },
+                    {
+                        "k": "182",
+                        "v": "Textures\/mask_eyelashes.jpg"
+                    },
+                    {
+                        "k": "187",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "188",
+                        "v": "Materials"
+                    },
+                    {
+                        "k": "194",
+                        "v": "Textures\/mask_eyeshadow_2.jpg"
+                    },
+                    {
+                        "k": "195",
+                        "v": "Textures\/mask_lip_gloss.jpg"
+                    },
+                    {
+                        "k": "198",
+                        "v": "Textures\/mask_eyeshadow_3.jpg"
+                    },
+                    {
+                        "k": "200",
+                        "v": "Textures\/mask_eyeshadow_1.jpg"
+                    },
+                    {
+                        "k": "202",
+                        "v": "Textures\/mask_eyebrows.jpg"
+                    },
+                    {
+                        "k": "205",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "206",
+                        "v": "Scripts\/MakeupController.js"
+                    },
+                    {
+                        "k": "223",
+                        "v": "Materials\/Face_0"
+                    },
+                    {
+                        "k": "7726",
+                        "v": "Scripts\/LipsController.js"
+                    },
+                    {
+                        "k": "7736",
+                        "v": "Textures\/mask_lips_closed.jpg"
+                    },
+                    {
+                        "k": "7738",
+                        "v": "Textures\/mask_lips_opened.jpg"
+                    },
+                    {
+                        "k": "7750",
+                        "v": "Materials\/Face_0\/Blush0.lsmat"
+                    },
+                    {
+                        "k": "7751",
+                        "v": "Materials\/Face_0\/Eyeliner0.lsmat"
+                    },
+                    {
+                        "k": "7752",
+                        "v": "Materials\/Face_0\/Eyeshadows0_1.lsmat"
+                    },
+                    {
+                        "k": "7753",
+                        "v": "Materials\/Face_0\/Eyeshadows0_2.lsmat"
+                    },
+                    {
+                        "k": "7754",
+                        "v": "Materials\/Face_0\/Eyeshadows0_3.lsmat"
+                    },
+                    {
+                        "k": "7755",
+                        "v": "Materials\/Face_0\/Eyelashes0.lsmat"
+                    },
+                    {
+                        "k": "7756",
+                        "v": "Materials\/Face_0\/Eyebrows0.lsmat"
+                    },
+                    {
+                        "k": "7757",
+                        "v": "Materials\/Face_0\/Lips0.lsmat"
+                    },
+                    {
+                        "k": "7758",
+                        "v": "Materials\/Face_0\/Lipgloss0.lsmat"
+                    },
+                    {
+                        "k": "7803",
+                        "v": "58cb45b7-863a-4bea-88ef-bc7c2689f576-removebg-preview (3).png"
+                    },
+                    {
+                        "k": "7810",
+                        "v": "BW.png"
+                    },
+                    {
+                        "k": "7817",
+                        "v": "Miami.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "3",
+                        "v": "19ba5134a34db2687c7e92a2999ae75c"
+                    },
+                    {
+                        "k": "4",
+                        "v": "d8317db7aa05ddc4073507ab29b03adb"
+                    },
+                    {
+                        "k": "5",
+                        "v": "1b12339e9a41a27830213bb9b454fd8a"
+                    },
+                    {
+                        "k": "6",
+                        "v": "7a7299994afa0daaa54abd33eb602ef8"
+                    },
+                    {
+                        "k": "7",
+                        "v": "3298bcf955d4b37ccc2cb519018637fb"
+                    },
+                    {
+                        "k": "8",
+                        "v": "ef1fb6e6a90898232e0d7f343c29cc8a"
+                    },
+                    {
+                        "k": "9",
+                        "v": "9eebb15f7515c5ca20a7e9df90210382"
+                    },
+                    {
+                        "k": "10",
+                        "v": "17dd97e2daad0dcae9cdfc3e2cf3f1cd"
+                    },
+                    {
+                        "k": "11",
+                        "v": "15872e427e708b1b4dd55ac499dac441"
+                    },
+                    {
+                        "k": "12",
+                        "v": "c2ae341846f2eeb60538ed359be41ca9"
+                    },
+                    {
+                        "k": "13",
+                        "v": "c7d7c53c93a5f871ea80ba62b38e48db"
+                    },
+                    {
+                        "k": "14",
+                        "v": "56371cf1a6f1f250330ae88226e70b88"
+                    },
+                    {
+                        "k": "99",
+                        "v": "1b70b89d3f669bbf372770f78a0cdec7"
+                    },
+                    {
+                        "k": "100",
+                        "v": "9eebb15f7515c5ca20a7e9df90210382"
+                    },
+                    {
+                        "k": "101",
+                        "v": "17dd97e2daad0dcae9cdfc3e2cf3f1cd"
+                    },
+                    {
+                        "k": "102",
+                        "v": "0ecb15c638a220c8e5f910f3b8c8ab75"
+                    },
+                    {
+                        "k": "103",
+                        "v": "c7b79e9b84d2a5a751565104d78d0b1b"
+                    },
+                    {
+                        "k": "104",
+                        "v": "65453645262319ed85c8d6f4d6fd7d4a"
+                    },
+                    {
+                        "k": "105",
+                        "v": "c369e3301705a722e531fdc5c8a6b3fe"
+                    },
+                    {
+                        "k": "106",
+                        "v": "f164791b95ffdb7d60e4a7b4acf78475"
+                    },
+                    {
+                        "k": "107",
+                        "v": "8b7713947f545ce813f86f1b35b224ea"
+                    },
+                    {
+                        "k": "108",
+                        "v": "cd07ed98866d982b8c0c29f5661f3235"
+                    },
+                    {
+                        "k": "109",
+                        "v": "adeff2ac2da1122cf7a238c63f25e27c"
+                    },
+                    {
+                        "k": "110",
+                        "v": "8f90acfed00aa0465c2f3565dbb499f7"
+                    },
+                    {
+                        "k": "111",
+                        "v": "dc6183fefaf1b135ce5d2337086309be"
+                    },
+                    {
+                        "k": "112",
+                        "v": "68e9946d21d2f1a9cd0c6cacaa4a1a27"
+                    },
+                    {
+                        "k": "113",
+                        "v": "8a805611bb9f9e5a61ae93e41a8ea491"
+                    },
+                    {
+                        "k": "114",
+                        "v": "40fcfd62ea842696aaefd55201409f00"
+                    },
+                    {
+                        "k": "115",
+                        "v": "81d28109cfe2e94f4e4cfc908d73f346"
+                    },
+                    {
+                        "k": "116",
+                        "v": "6ca0d5803c425f09f31a37e6f7825eba"
+                    },
+                    {
+                        "k": "117",
+                        "v": "884efe078da094c73953181e931879f2"
+                    },
+                    {
+                        "k": "118",
+                        "v": "2db3075f01cab35a292f3eb08a2702ab"
+                    },
+                    {
+                        "k": "119",
+                        "v": "392f93b6964afc6ee4e3e3917e692032"
+                    },
+                    {
+                        "k": "120",
+                        "v": "cc25a1323b92fc34b16e3292020e8ffc"
+                    },
+                    {
+                        "k": "121",
+                        "v": "59adb24ef3cdbe0297f05b395827453f"
+                    },
+                    {
+                        "k": "122",
+                        "v": "74b5719469eae30ae7c726bdf0c1b91a"
+                    },
+                    {
+                        "k": "123",
+                        "v": "65453645262319ed85c8d6f4d6fd7d4a"
+                    },
+                    {
+                        "k": "124",
+                        "v": "c369e3301705a722e531fdc5c8a6b3fe"
+                    },
+                    {
+                        "k": "125",
+                        "v": "f164791b95ffdb7d60e4a7b4acf78475"
+                    },
+                    {
+                        "k": "126",
+                        "v": "8b7713947f545ce813f86f1b35b224ea"
+                    },
+                    {
+                        "k": "127",
+                        "v": "cd07ed98866d982b8c0c29f5661f3235"
+                    },
+                    {
+                        "k": "128",
+                        "v": "adeff2ac2da1122cf7a238c63f25e27c"
+                    },
+                    {
+                        "k": "129",
+                        "v": "8f90acfed00aa0465c2f3565dbb499f7"
+                    },
+                    {
+                        "k": "130",
+                        "v": "dc6183fefaf1b135ce5d2337086309be"
+                    },
+                    {
+                        "k": "131",
+                        "v": "68e9946d21d2f1a9cd0c6cacaa4a1a27"
+                    },
+                    {
+                        "k": "132",
+                        "v": "8a805611bb9f9e5a61ae93e41a8ea491"
+                    },
+                    {
+                        "k": "133",
+                        "v": "40fcfd62ea842696aaefd55201409f00"
+                    },
+                    {
+                        "k": "134",
+                        "v": "81d28109cfe2e94f4e4cfc908d73f346"
+                    },
+                    {
+                        "k": "135",
+                        "v": "6ca0d5803c425f09f31a37e6f7825eba"
+                    },
+                    {
+                        "k": "136",
+                        "v": "884efe078da094c73953181e931879f2"
+                    },
+                    {
+                        "k": "137",
+                        "v": "2db3075f01cab35a292f3eb08a2702ab"
+                    },
+                    {
+                        "k": "138",
+                        "v": "392f93b6964afc6ee4e3e3917e692032"
+                    },
+                    {
+                        "k": "139",
+                        "v": "cc25a1323b92fc34b16e3292020e8ffc"
+                    },
+                    {
+                        "k": "140",
+                        "v": "59adb24ef3cdbe0297f05b395827453f"
+                    },
+                    {
+                        "k": "141",
+                        "v": "74b5719469eae30ae7c726bdf0c1b91a"
+                    },
+                    {
+                        "k": "142",
+                        "v": "65453645262319ed85c8d6f4d6fd7d4a"
+                    },
+                    {
+                        "k": "143",
+                        "v": "c369e3301705a722e531fdc5c8a6b3fe"
+                    },
+                    {
+                        "k": "144",
+                        "v": "f164791b95ffdb7d60e4a7b4acf78475"
+                    },
+                    {
+                        "k": "145",
+                        "v": "8b7713947f545ce813f86f1b35b224ea"
+                    },
+                    {
+                        "k": "146",
+                        "v": "cd07ed98866d982b8c0c29f5661f3235"
+                    },
+                    {
+                        "k": "147",
+                        "v": "adeff2ac2da1122cf7a238c63f25e27c"
+                    },
+                    {
+                        "k": "148",
+                        "v": "8f90acfed00aa0465c2f3565dbb499f7"
+                    },
+                    {
+                        "k": "149",
+                        "v": "dc6183fefaf1b135ce5d2337086309be"
+                    },
+                    {
+                        "k": "150",
+                        "v": "68e9946d21d2f1a9cd0c6cacaa4a1a27"
+                    },
+                    {
+                        "k": "151",
+                        "v": "8a805611bb9f9e5a61ae93e41a8ea491"
+                    },
+                    {
+                        "k": "152",
+                        "v": "40fcfd62ea842696aaefd55201409f00"
+                    },
+                    {
+                        "k": "153",
+                        "v": "81d28109cfe2e94f4e4cfc908d73f346"
+                    },
+                    {
+                        "k": "154",
+                        "v": "6ca0d5803c425f09f31a37e6f7825eba"
+                    },
+                    {
+                        "k": "155",
+                        "v": "884efe078da094c73953181e931879f2"
+                    },
+                    {
+                        "k": "156",
+                        "v": "2db3075f01cab35a292f3eb08a2702ab"
+                    },
+                    {
+                        "k": "157",
+                        "v": "392f93b6964afc6ee4e3e3917e692032"
+                    },
+                    {
+                        "k": "158",
+                        "v": "cc25a1323b92fc34b16e3292020e8ffc"
+                    },
+                    {
+                        "k": "159",
+                        "v": "59adb24ef3cdbe0297f05b395827453f"
+                    },
+                    {
+                        "k": "160",
+                        "v": "74b5719469eae30ae7c726bdf0c1b91a"
+                    },
+                    {
+                        "k": "161",
+                        "v": "54ace3dc01615e1bcb118769e9e45355"
+                    },
+                    {
+                        "k": "162",
+                        "v": "65453645262319ed85c8d6f4d6fd7d4a"
+                    },
+                    {
+                        "k": "163",
+                        "v": "c369e3301705a722e531fdc5c8a6b3fe"
+                    },
+                    {
+                        "k": "164",
+                        "v": "f164791b95ffdb7d60e4a7b4acf78475"
+                    },
+                    {
+                        "k": "165",
+                        "v": "8b7713947f545ce813f86f1b35b224ea"
+                    },
+                    {
+                        "k": "166",
+                        "v": "cd07ed98866d982b8c0c29f5661f3235"
+                    },
+                    {
+                        "k": "167",
+                        "v": "adeff2ac2da1122cf7a238c63f25e27c"
+                    },
+                    {
+                        "k": "168",
+                        "v": "8f90acfed00aa0465c2f3565dbb499f7"
+                    },
+                    {
+                        "k": "169",
+                        "v": "dc6183fefaf1b135ce5d2337086309be"
+                    },
+                    {
+                        "k": "170",
+                        "v": "68e9946d21d2f1a9cd0c6cacaa4a1a27"
+                    },
+                    {
+                        "k": "171",
+                        "v": "8a805611bb9f9e5a61ae93e41a8ea491"
+                    },
+                    {
+                        "k": "172",
+                        "v": "40fcfd62ea842696aaefd55201409f00"
+                    },
+                    {
+                        "k": "173",
+                        "v": "81d28109cfe2e94f4e4cfc908d73f346"
+                    },
+                    {
+                        "k": "174",
+                        "v": "6ca0d5803c425f09f31a37e6f7825eba"
+                    },
+                    {
+                        "k": "175",
+                        "v": "884efe078da094c73953181e931879f2"
+                    },
+                    {
+                        "k": "176",
+                        "v": "2db3075f01cab35a292f3eb08a2702ab"
+                    },
+                    {
+                        "k": "177",
+                        "v": "392f93b6964afc6ee4e3e3917e692032"
+                    },
+                    {
+                        "k": "178",
+                        "v": "cc25a1323b92fc34b16e3292020e8ffc"
+                    },
+                    {
+                        "k": "179",
+                        "v": "59adb24ef3cdbe0297f05b395827453f"
+                    },
+                    {
+                        "k": "180",
+                        "v": "74b5719469eae30ae7c726bdf0c1b91a"
+                    },
+                    {
+                        "k": "181",
+                        "v": "d6ac35e1b34f1805ae24d8bff8114615"
+                    },
+                    {
+                        "k": "182",
+                        "v": "82e0a8c898863dc84222589dcc18bce6"
+                    },
+                    {
+                        "k": "183",
+                        "v": "926c8f7c421965d527eaf337c83e8e3b"
+                    },
+                    {
+                        "k": "184",
+                        "v": "91677f04f4058b237d8aef9f96bcf2c6"
+                    },
+                    {
+                        "k": "185",
+                        "v": "c7d2d339795ae4b394a81c49fcddd0f8"
+                    },
+                    {
+                        "k": "186",
+                        "v": "b57d7c30e4d4aa561b8342bce102965c"
+                    },
+                    {
+                        "k": "189",
+                        "v": "9eebb15f7515c5ca20a7e9df90210382"
+                    },
+                    {
+                        "k": "190",
+                        "v": "17dd97e2daad0dcae9cdfc3e2cf3f1cd"
+                    },
+                    {
+                        "k": "191",
+                        "v": "2e80252f00893d6bf8877b636a27059e"
+                    },
+                    {
+                        "k": "192",
+                        "v": "09b497a7292fdd9f8b36d16de3bc70dc"
+                    },
+                    {
+                        "k": "194",
+                        "v": "b95faf3dc4bee932c9ac1ba3cc5adf68"
+                    },
+                    {
+                        "k": "195",
+                        "v": "6dd02382fa6297cb4b09134352452631"
+                    },
+                    {
+                        "k": "196",
+                        "v": "27a931c6363f15902277fc33cccd5618"
+                    },
+                    {
+                        "k": "197",
+                        "v": "ddbd1c6eaa7b99087a636ec63d6cd849"
+                    },
+                    {
+                        "k": "198",
+                        "v": "ea6f0d0937dd4f8807eada3641159adb"
+                    },
+                    {
+                        "k": "199",
+                        "v": "0a6d1497dcced9979897d882b88b85db"
+                    },
+                    {
+                        "k": "200",
+                        "v": "69432f5ecc4498a147fe80b60650aa52"
+                    },
+                    {
+                        "k": "201",
+                        "v": "bbfee4433c64c88c9abeff827a711301"
+                    },
+                    {
+                        "k": "202",
+                        "v": "011bc6cef650328ca43cf7120f56374d"
+                    },
+                    {
+                        "k": "203",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "204",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "205",
+                        "v": "1fe20a550c69b8afd9825496bf1570f7"
+                    },
+                    {
+                        "k": "206",
+                        "v": "1439d873f869f14ed32eddac5a1fc0e3"
+                    },
+                    {
+                        "k": "207",
+                        "v": "9eebb15f7515c5ca20a7e9df90210382"
+                    },
+                    {
+                        "k": "208",
+                        "v": "17dd97e2daad0dcae9cdfc3e2cf3f1cd"
+                    },
+                    {
+                        "k": "209",
+                        "v": "366526b77f7ec174c0d49a36062d5438"
+                    },
+                    {
+                        "k": "210",
+                        "v": "0f08aeded84409d1449543b331c2ca95"
+                    },
+                    {
+                        "k": "211",
+                        "v": "9eebb15f7515c5ca20a7e9df90210382"
+                    },
+                    {
+                        "k": "212",
+                        "v": "17dd97e2daad0dcae9cdfc3e2cf3f1cd"
+                    },
+                    {
+                        "k": "213",
+                        "v": "7581e800f0b39b3df31af7dd902df40c"
+                    },
+                    {
+                        "k": "215",
+                        "v": "e16233ec89716f0acb54d7c2b80059cc"
+                    },
+                    {
+                        "k": "216",
+                        "v": "f64804ce8cb0bd7ca947110f9b60cbe9"
+                    },
+                    {
+                        "k": "217",
+                        "v": "bcda41bb04055d8d630f910bbef27753"
+                    },
+                    {
+                        "k": "218",
+                        "v": "8f8df25fe716b5ee9ccca3d8c9483a68"
+                    },
+                    {
+                        "k": "219",
+                        "v": "e9df697ebe1a736437f0ec45961fba6c"
+                    },
+                    {
+                        "k": "220",
+                        "v": "3c702d40b6eb62377f6f2bbcfd95ca06"
+                    },
+                    {
+                        "k": "221",
+                        "v": "aa4ec061a16daf3111fc3d47b3074056"
+                    },
+                    {
+                        "k": "222",
+                        "v": "8952862f6dd6b8015ba9b96d720cd5a8"
+                    },
+                    {
+                        "k": "223",
+                        "v": "89f712c8a738697f99ccf378eeae49b8"
+                    },
+                    {
+                        "k": "224",
+                        "v": "7cb760045c38773b2bbdd6698b18ae1e"
+                    },
+                    {
+                        "k": "225",
+                        "v": "bc5d0c1638d9917e45b586b4dfd11531"
+                    },
+                    {
+                        "k": "226",
+                        "v": "a54a5410684f29dc2f39d979ee77366f"
+                    },
+                    {
+                        "k": "227",
+                        "v": "12ebe5301192d975d403976415a88147"
+                    },
+                    {
+                        "k": "228",
+                        "v": "dd6433a7b620164880326c885abf602d"
+                    },
+                    {
+                        "k": "229",
+                        "v": "68717182866311c154d1b71300b98872"
+                    },
+                    {
+                        "k": "230",
+                        "v": "5ff2231cfdb998903c019c442da6d7de"
+                    },
+                    {
+                        "k": "231",
+                        "v": "4dc953fb70f89d4c7ab70512bd167baa"
+                    },
+                    {
+                        "k": "232",
+                        "v": "b71c0cc5dee96e9555accf330a12f1a2"
+                    },
+                    {
+                        "k": "233",
+                        "v": "c0f27e62a3a719e4f5081fa4931afd44"
+                    },
+                    {
+                        "k": "234",
+                        "v": "67f7d994f090dbf7c6c9094ea5d19015"
+                    },
+                    {
+                        "k": "235",
+                        "v": "9eebb15f7515c5ca20a7e9df90210382"
+                    },
+                    {
+                        "k": "236",
+                        "v": "17dd97e2daad0dcae9cdfc3e2cf3f1cd"
+                    },
+                    {
+                        "k": "237",
+                        "v": "f559d849bfcd9ad8f5aac069c77b0fda"
+                    },
+                    {
+                        "k": "238",
+                        "v": "dbfe6d87f0a628bdfa8525e1f7b12703"
+                    },
+                    {
+                        "k": "239",
+                        "v": "bee60ca9b90384a93eb7d516313c37a5"
+                    },
+                    {
+                        "k": "240",
+                        "v": "14f8e325e31475462b7c302e694e9690"
+                    },
+                    {
+                        "k": "241",
+                        "v": "8b0cfffeddf55ad3cd2eb52a84151a61"
+                    },
+                    {
+                        "k": "242",
+                        "v": "8cb0b70f644fa6a49dff08b66603ddfa"
+                    },
+                    {
+                        "k": "243",
+                        "v": "e8e6f9b81d8f6337d19a6a3434fef3e4"
+                    },
+                    {
+                        "k": "244",
+                        "v": "f06355161378dc1a6ddc36d8a41c94cf"
+                    },
+                    {
+                        "k": "245",
+                        "v": "9791897450e8a4b23572f8ba64fc9473"
+                    },
+                    {
+                        "k": "246",
+                        "v": "af2977557b8c94b16fc66ae6a078855b"
+                    },
+                    {
+                        "k": "248",
+                        "v": "39c2dbd43e01ba98cbd834245b9772bf"
+                    },
+                    {
+                        "k": "249",
+                        "v": "71d5e827e0ef1f5242222e405369e678"
+                    },
+                    {
+                        "k": "250",
+                        "v": "7e124c27b26b6b8cf10944b6239a6f3d"
+                    },
+                    {
+                        "k": "251",
+                        "v": "274a1590424fdad085a97d8e7a22d1e3"
+                    },
+                    {
+                        "k": "252",
+                        "v": "b26b7380da8ce17886819d6364542ab5"
+                    },
+                    {
+                        "k": "253",
+                        "v": "f96cbc44216baa13afbd399e06d1e066"
+                    },
+                    {
+                        "k": "254",
+                        "v": "dabca032441c6448c2eef44020dd6e15"
+                    },
+                    {
+                        "k": "255",
+                        "v": "1881e20e3e998293d8178b57d9121b9c"
+                    },
+                    {
+                        "k": "256",
+                        "v": "c4fde19c5b9f730a3090e44e07cbb5b2"
+                    },
+                    {
+                        "k": "7726",
+                        "v": "52011986ffe057fbf92f3df216c39021"
+                    },
+                    {
+                        "k": "7728",
+                        "v": "46f52c60f5e6c587509dac31735e5e23"
+                    },
+                    {
+                        "k": "7730",
+                        "v": "7d44eba18409066278b81b1bb3a5ebbc"
+                    },
+                    {
+                        "k": "7731",
+                        "v": "d7e25fd466006d89b8c99205d7edc4bd"
+                    },
+                    {
+                        "k": "7732",
+                        "v": "9eebb15f7515c5ca20a7e9df90210382"
+                    },
+                    {
+                        "k": "7733",
+                        "v": "17dd97e2daad0dcae9cdfc3e2cf3f1cd"
+                    },
+                    {
+                        "k": "7734",
+                        "v": "28d5bff2d759845cdc4566fe5e5fdb2a"
+                    },
+                    {
+                        "k": "7735",
+                        "v": "b15ad33120e68c940241d5d31db88c03"
+                    },
+                    {
+                        "k": "7736",
+                        "v": "98c985a75a962474a93c3a757c113806"
+                    },
+                    {
+                        "k": "7737",
+                        "v": "b15ad33120e68c940241d5d31db88c03"
+                    },
+                    {
+                        "k": "7738",
+                        "v": "b4e724b560d3707c773b7a6047d2b3d5"
+                    },
+                    {
+                        "k": "7739",
+                        "v": "beddfdf0e72e315eb774e1228fd49ce2"
+                    },
+                    {
+                        "k": "7749",
+                        "v": "d15df0428b8b1a18fb064b9760f1177b"
+                    },
+                    {
+                        "k": "7750",
+                        "v": "e06d6ed156ef340833bec3eb64e0dce7"
+                    },
+                    {
+                        "k": "7751",
+                        "v": "01d8f9924b629bf65ba12312e9a9c02a"
+                    },
+                    {
+                        "k": "7752",
+                        "v": "43477a1c1610990ce1472c97a2c83586"
+                    },
+                    {
+                        "k": "7753",
+                        "v": "9ab07befe5c688d5f16a40e83a49ae0c"
+                    },
+                    {
+                        "k": "7754",
+                        "v": "4858992ba8f286d78c593a508859e75f"
+                    },
+                    {
+                        "k": "7755",
+                        "v": "b67bedd9e9ed8668baff79a987620ece"
+                    },
+                    {
+                        "k": "7756",
+                        "v": "9d25959ab7a6b940a960c77fe35f5b51"
+                    },
+                    {
+                        "k": "7757",
+                        "v": "be6b4348b2fd910753849259f9a6ca4f"
+                    },
+                    {
+                        "k": "7758",
+                        "v": "764e61850ea797d47391b49fe56d4c22"
+                    },
+                    {
+                        "k": "7759",
+                        "v": "efdb38817232e9cd88a9f270522f1e52"
+                    },
+                    {
+                        "k": "7760",
+                        "v": "0662fa58642211294af9a0e563165001"
+                    },
+                    {
+                        "k": "7761",
+                        "v": "13be0baab883f566a5dff5486768bca5"
+                    },
+                    {
+                        "k": "7762",
+                        "v": "57eae0c4654a5862451ff5d33a5e42e2"
+                    },
+                    {
+                        "k": "7763",
+                        "v": "94513e4f18ec4a847e3c15b866bce2f5"
+                    },
+                    {
+                        "k": "7764",
+                        "v": "ca8b6359277a30689e9ab79484aff8f8"
+                    },
+                    {
+                        "k": "7765",
+                        "v": "17ccfa9f58bc0bda88adfbbacfa3cfc3"
+                    },
+                    {
+                        "k": "7766",
+                        "v": "6a37be9600e0b145a541916e5748120a"
+                    },
+                    {
+                        "k": "7767",
+                        "v": "61be73c1f1b336e60c57c1516f918b1b"
+                    },
+                    {
+                        "k": "7769",
+                        "v": "402805e5d87cf0f61af10c6cc458a773"
+                    },
+                    {
+                        "k": "7770",
+                        "v": "402805e5d87cf0f61af10c6cc458a773"
+                    },
+                    {
+                        "k": "7771",
+                        "v": "3bc20e8f2961679bb7ef97559c29d071"
+                    },
+                    {
+                        "k": "7772",
+                        "v": "402805e5d87cf0f61af10c6cc458a773"
+                    },
+                    {
+                        "k": "7773",
+                        "v": "402805e5d87cf0f61af10c6cc458a773"
+                    },
+                    {
+                        "k": "7774",
+                        "v": "47962babac7f2c022ddd22218837e6de"
+                    },
+                    {
+                        "k": "7775",
+                        "v": "ca8f36d6d86823da200332cd07ac0525"
+                    },
+                    {
+                        "k": "7776",
+                        "v": "d433a9176a6f38a968d0047750ab8542"
+                    },
+                    {
+                        "k": "7777",
+                        "v": "df2263cffd75f799d46a9ace1b4b03e5"
+                    },
+                    {
+                        "k": "7778",
+                        "v": "3c59a7cfbe569d140c48778737513d0c"
+                    },
+                    {
+                        "k": "7779",
+                        "v": "16d9fbfab32f3264f36b189ba989b44e"
+                    },
+                    {
+                        "k": "7780",
+                        "v": "6e39e3a8f2e1bd8dee246991e3394fd4"
+                    },
+                    {
+                        "k": "7781",
+                        "v": "6e39e3a8f2e1bd8dee246991e3394fd4"
+                    },
+                    {
+                        "k": "7782",
+                        "v": "9c46401e28610180109baeaf1ea7ba15"
+                    },
+                    {
+                        "k": "7783",
+                        "v": "6d7594ebd59b941a1511ab77f939b94b"
+                    },
+                    {
+                        "k": "7784",
+                        "v": "93bd0e2cee2d617d26de5bcb4e8221ec"
+                    },
+                    {
+                        "k": "7785",
+                        "v": "9cb56502fe353c98658d29f3b2d79fec"
+                    },
+                    {
+                        "k": "7786",
+                        "v": "94724991a5b1eb2dad00986df33fbf30"
+                    },
+                    {
+                        "k": "7787",
+                        "v": "4806da6e95d1e0b6d56f3af9faa79eba"
+                    },
+                    {
+                        "k": "7788",
+                        "v": "d12e649aeb9de97907b12f8af0529abb"
+                    },
+                    {
+                        "k": "7789",
+                        "v": "fd5fc18bb0c6c99b2f87204edb55fcd8"
+                    },
+                    {
+                        "k": "7790",
+                        "v": "8ecb340c714e284782c4e2e82b393419"
+                    },
+                    {
+                        "k": "7791",
+                        "v": "3bc20e8f2961679bb7ef97559c29d071"
+                    },
+                    {
+                        "k": "7792",
+                        "v": "16d9fbfab32f3264f36b189ba989b44e"
+                    },
+                    {
+                        "k": "7793",
+                        "v": "e0e5a1cb2099770bf4bfec5213e5d612"
+                    },
+                    {
+                        "k": "7794",
+                        "v": "17fc5cc4bb9546556de454172f9dc9ae"
+                    },
+                    {
+                        "k": "7795",
+                        "v": "345f7aad606591fdbb19658df4bd7f65"
+                    },
+                    {
+                        "k": "7796",
+                        "v": "16d9fbfab32f3264f36b189ba989b44e"
+                    },
+                    {
+                        "k": "7797",
+                        "v": "a276acaed7d65e4c1b56181771677a77"
+                    },
+                    {
+                        "k": "7798",
+                        "v": "d545209a915d904d9f5a63e812cfb900"
+                    },
+                    {
+                        "k": "7799",
+                        "v": "4a5152a2623bcd116a4e8100d1970f6f"
+                    },
+                    {
+                        "k": "7800",
+                        "v": "eb19477515b83283562194ffc4139da3"
+                    },
+                    {
+                        "k": "7801",
+                        "v": "eb19477515b83283562194ffc4139da3"
+                    },
+                    {
+                        "k": "7802",
+                        "v": "402805e5d87cf0f61af10c6cc458a773"
+                    },
+                    {
+                        "k": "7803",
+                        "v": "ca8f36d6d86823da200332cd07ac0525"
+                    },
+                    {
+                        "k": "7804",
+                        "v": "9a92be07f823945e5cf5c8cccf88473f"
+                    },
+                    {
+                        "k": "7805",
+                        "v": "3bc20e8f2961679bb7ef97559c29d071"
+                    },
+                    {
+                        "k": "7806",
+                        "v": "9a92be07f823945e5cf5c8cccf88473f"
+                    },
+                    {
+                        "k": "7807",
+                        "v": "8c0641586a77ac16468fe65a6f3c9f98"
+                    },
+                    {
+                        "k": "7808",
+                        "v": "e0e5a1cb2099770bf4bfec5213e5d612"
+                    },
+                    {
+                        "k": "7809",
+                        "v": "67fbf4a0308c9e05090a014bab4ac43a"
+                    },
+                    {
+                        "k": "7810",
+                        "v": "9a92be07f823945e5cf5c8cccf88473f"
+                    },
+                    {
+                        "k": "7811",
+                        "v": "e9f3b55c6963700619be3d15bdcc894c"
+                    },
+                    {
+                        "k": "7812",
+                        "v": "a7d84973a651c0781b5c274838f77530"
+                    },
+                    {
+                        "k": "7813",
+                        "v": "3924da4ece660b56cdcb4f2b7b3fe66c"
+                    },
+                    {
+                        "k": "7814",
+                        "v": "a276acaed7d65e4c1b56181771677a77"
+                    },
+                    {
+                        "k": "7815",
+                        "v": "345f7aad606591fdbb19658df4bd7f65"
+                    },
+                    {
+                        "k": "7816",
+                        "v": "93bd0e2cee2d617d26de5bcb4e8221ec"
+                    },
+                    {
+                        "k": "7817",
+                        "v": "3c59a7cfbe569d140c48778737513d0c"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-07-21T00:15:31",
+                        "name": "Public",
+                        "hash": "9103a3c03676c25a15f16b75af52af0a",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-07-20T22:02:34",
+                                "name": "58cb45b7-863a-4bea-88ef-bc7c2689f576-removebg-preview (3).png",
+                                "hash": "ca8f36d6d86823da200332cd07ac0525",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-06-08T06:38:44",
+                                "name": "BW.png",
+                                "hash": "9a92be07f823945e5cf5c8cccf88473f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-06-08T06:39:36",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-07-20T23:11:39",
+                                "name": "Materials",
+                                "hash": "0fa027a531df80b33ce8fbfd3f0d80ca",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-07-20T22:06:43",
+                                        "name": "Face_0",
+                                        "hash": "d9a85aa77f8b5ba906b5ab5b3821e029",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-07-20T22:06:43",
+                                                "name": "Blush0.lsmat",
+                                                "hash": "3602412a8232ac91e9a6dc459e0b89a8",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-07-20T22:06:43",
+                                                "name": "Eyebrows0.lsmat",
+                                                "hash": "500690ab72a2c6d9c5987fc68003d490",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-07-20T22:06:43",
+                                                "name": "Eyelashes0.lsmat",
+                                                "hash": "94013ddfd3bfeb5089516963d34d607d",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-07-20T22:06:42",
+                                                "name": "Eyeliner0.lsmat",
+                                                "hash": "f0627c6bf947fcb4a11377572e3c68e1",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-07-20T22:06:42",
+                                                "name": "Eyeshadows0_1.lsmat",
+                                                "hash": "974af95ecd1ced8433efde299a9e351f",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-07-20T22:06:43",
+                                                "name": "Eyeshadows0_2.lsmat",
+                                                "hash": "5c469597dca6e85d4f966440d2720cba",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-07-20T22:06:43",
+                                                "name": "Eyeshadows0_3.lsmat",
+                                                "hash": "96d78ee74f25b15da742d07c5f2e9337",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-06-08T06:39:36",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-07-20T22:06:43",
+                                                "name": "Lipgloss0.lsmat",
+                                                "hash": "3bfb6a08e71b66376f297010f1baaf92",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-07-20T22:06:43",
+                                                "name": "Lips0.lsmat",
+                                                "hash": "c8f2993966d53309540a3c548ecc2a0f",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-08T06:39:36",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-06-08T06:38:44",
+                                "name": "Miami.png",
+                                "hash": "3c59a7cfbe569d140c48778737513d0c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-07-20T22:00:26",
+                                "name": "Scripts",
+                                "hash": "5e68d254e463b43c00c1055a0073e878",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-08T06:39:36",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-08T06:39:36",
+                                        "name": "LipsController.js",
+                                        "hash": "52011986ffe057fbf92f3df216c39021",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-08T06:39:36",
+                                        "name": "MakeupController.js",
+                                        "hash": "1439d873f869f14ed32eddac5a1fc0e3",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-07-20T22:00:26",
+                                "name": "Textures",
+                                "hash": "a1927c267e5617c0f03e96eb94de96d8",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-08T06:39:36",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-08T06:39:36",
+                                        "name": "mask_blush.jpg",
+                                        "hash": "d6ac35e1b34f1805ae24d8bff8114615",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-08T06:39:36",
+                                        "name": "mask_eyebrows.jpg",
+                                        "hash": "011bc6cef650328ca43cf7120f56374d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-08T06:39:36",
+                                        "name": "mask_eyelashes.jpg",
+                                        "hash": "82e0a8c898863dc84222589dcc18bce6",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-08T06:39:36",
+                                        "name": "mask_eyeliner.jpg",
+                                        "hash": "15872e427e708b1b4dd55ac499dac441",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-08T06:39:36",
+                                        "name": "mask_eyeshadow_1.jpg",
+                                        "hash": "69432f5ecc4498a147fe80b60650aa52",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-08T06:39:36",
+                                        "name": "mask_eyeshadow_2.jpg",
+                                        "hash": "b95faf3dc4bee932c9ac1ba3cc5adf68",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-08T06:39:36",
+                                        "name": "mask_eyeshadow_3.jpg",
+                                        "hash": "ea6f0d0937dd4f8807eada3641159adb",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-08T06:39:36",
+                                        "name": "mask_lips_closed.jpg",
+                                        "hash": "98c985a75a962474a93c3a757c113806",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-08T06:39:36",
+                                        "name": "mask_lips_opened.jpg",
+                                        "hash": "b4e724b560d3707c773b7a6047d2b3d5",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-08T06:39:36",
+                                        "name": "mask_lip_gloss.jpg",
+                                        "hash": "6dd02382fa6297cb4b09134352452631",
+                                        "children": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "187",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "mask_blush",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "103",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1560372455182087:17679",
+                                "fileId": "84",
+                                "originalId": "274",
+                                "publicId": "181",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "d6ac35e1b34f1805ae24d8bff8114615"
+                                }
+                            },
+                            {
+                                "name": "mask_eyelashes",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "104",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1560372455189635:17689",
+                                "fileId": "86",
+                                "originalId": "275",
+                                "publicId": "182",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "82e0a8c898863dc84222589dcc18bce6"
+                                }
+                            },
+                            {
+                                "name": "mask_eyeliner",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "35",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1560294564601149:129648",
+                                "fileId": "12",
+                                "originalId": "276",
+                                "publicId": "11",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "15872e427e708b1b4dd55ac499dac441"
+                                }
+                            },
+                            {
+                                "name": "mask_lip_gloss",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "116",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1563514786230353:227859",
+                                "fileId": "101",
+                                "originalId": "277",
+                                "publicId": "195",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "6dd02382fa6297cb4b09134352452631"
+                                }
+                            },
+                            {
+                                "name": "mask_eyeshadow_2",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "115",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1563503279617552:424337",
+                                "fileId": "99",
+                                "originalId": "278",
+                                "publicId": "194",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "b95faf3dc4bee932c9ac1ba3cc5adf68"
+                                }
+                            },
+                            {
+                                "name": "mask_eyeshadow_3",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "119",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1563518772795809:170706",
+                                "fileId": "105",
+                                "originalId": "279",
+                                "publicId": "198",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "ea6f0d0937dd4f8807eada3641159adb"
+                                }
+                            },
+                            {
+                                "name": "mask_eyeshadow_1",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "121",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1563519545145716:252558",
+                                "fileId": "108",
+                                "originalId": "280",
+                                "publicId": "200",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "69432f5ecc4498a147fe80b60650aa52"
+                                }
+                            },
+                            {
+                                "name": "mask_eyebrows",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "123",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1563520312701079:429868",
+                                "fileId": "111",
+                                "originalId": "281",
+                                "publicId": "202",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "011bc6cef650328ca43cf7120f56374d"
+                                }
+                            },
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": {
+                                    "resourceInfoExportKey": {
+                                        "RenderTargetRole": "1"
+                                    }
+                                }
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "mask_lips_closed",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "181",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1585276987552009:434517",
+                                "fileId": "266",
+                                "originalId": "267",
+                                "publicId": "7736",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "98c985a75a962474a93c3a757c113806"
+                                }
+                            },
+                            {
+                                "name": "mask_lips_opened",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "183",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1585277320979745:471868",
+                                "fileId": "270",
+                                "originalId": "271",
+                                "publicId": "7738",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "b4e724b560d3707c773b7a6047d2b3d5"
+                                }
+                            },
+                            {
+                                "name": "Screen Texture",
+                                "type": "1",
+                                "subtype": "16",
+                                "resourceId": "212",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1626798902010491:222605",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Texture 2",
+                                "type": "1",
+                                "subtype": "16",
+                                "resourceId": "218",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1626799279392496:284925",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Texture 3",
+                                "type": "1",
+                                "subtype": "16",
+                                "resourceId": "250",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1626802732624682:975731",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "188",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Face_0",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "223",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Eyeliner0",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "187",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1611886557248618:753800",
+                                        "fileId": "286",
+                                        "originalId": "287",
+                                        "publicId": "7751",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Eyeshadows0_1",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "188",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1611886713871626:783997",
+                                        "fileId": "288",
+                                        "originalId": "289",
+                                        "publicId": "7752",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Eyeshadows0_2",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "189",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1611886900639456:815808",
+                                        "fileId": "290",
+                                        "originalId": "291",
+                                        "publicId": "7753",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Eyeshadows0_3",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "190",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1611886933362566:824481",
+                                        "fileId": "292",
+                                        "originalId": "293",
+                                        "publicId": "7754",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Eyelashes0",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "191",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1611887133286883:870114",
+                                        "fileId": "294",
+                                        "originalId": "295",
+                                        "publicId": "7755",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Eyebrows0",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "192",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1611887255963272:901196",
+                                        "fileId": "296",
+                                        "originalId": "297",
+                                        "publicId": "7756",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Lips0",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "193",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1611887354950594:919987",
+                                        "fileId": "298",
+                                        "originalId": "299",
+                                        "publicId": "7757",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Lipgloss0",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "194",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1611887393452646:928451",
+                                        "fileId": "300",
+                                        "originalId": "301",
+                                        "publicId": "7758",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Blush0",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "186",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1611885248731195:546895",
+                                        "fileId": "284",
+                                        "originalId": "285",
+                                        "publicId": "7750",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "205",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "MakeupController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "127",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1563555395639695:135338",
+                                "fileId": "115",
+                                "originalId": "18446744073709551615",
+                                "publicId": "206",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "LipsController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "173",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1585273197086665:83786",
+                                "fileId": "251",
+                                "originalId": "18446744073709551615",
+                                "publicId": "7726",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "58cb45b7-863a-4bea-88ef-bc7c2689f576-removebg-preview (3)",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "240",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1626801298628526:652340",
+                        "fileId": "403",
+                        "originalId": "404",
+                        "publicId": "7803",
+                        "source": "C:\/Users\/Prateek Gupta\/Downloads\/58cb45b7-863a-4bea-88ef-bc7c2689f576-removebg-preview (3).png",
+                        "additional": {
+                            "originHash": "ca8f36d6d86823da200332cd07ac0525"
+                        }
+                    },
+                    {
+                        "name": "BW",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "248",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1626802696854243:967704",
+                        "fileId": "419",
+                        "originalId": "420",
+                        "publicId": "7810",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/BW.png",
+                        "additional": {
+                            "originHash": "9a92be07f823945e5cf5c8cccf88473f"
+                        }
+                    },
+                    {
+                        "name": "Miami",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "256",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1626802977945014:1039526",
+                        "fileId": "433",
+                        "originalId": "434",
+                        "publicId": "7817",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Miami.png",
+                        "additional": {
+                            "originHash": "3c59a7cfbe569d140c48778737513d0c"
+                        }
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1626801298628526:652340",
+                    "v": {
+                        "infos": {
+                            "originalSize": "53443",
+                            "compressedSize": "15217",
+                            "originalRAM": "955328",
+                            "compressedRAM": "119968",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "405",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "ca8f36d6d86823da200332cd07ac0525",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "406"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    }
+}
